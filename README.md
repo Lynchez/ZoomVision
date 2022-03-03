@@ -45,7 +45,7 @@ Underneath it uses [YOLOv4](https://github.com/AlexeyAB/darknet) model trained o
 ![](images/result.png)
 
 # Without ZoomVision
-![](images/object_detection.png)
+![](images/object_detection.jpg)
 
 ## Citation
 If you find zoomvision helpful in your work, please cite the following
