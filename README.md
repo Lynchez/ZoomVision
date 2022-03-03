@@ -53,7 +53,7 @@ If you find zoomvision helpful in your work, please cite the following
 @misc{ar2021zoomvision,
   author =       {Nurettin Sinanoğlu},
   title =        {zoomvision - Easy to use Computer Vision library for Python},
-  howpublished = {\url{https://github.com/Lynchez/deepvision}},
+  howpublished = {\url{https://github.com/Lynchez/zoomvision}},
   year =         {2021}
 }
 ```
