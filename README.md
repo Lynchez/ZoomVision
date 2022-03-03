@@ -54,7 +54,7 @@ If you find zoomvision helpful in your work, please cite the following
   author =       {Nurettin Sinanoğlu},
   title =        {zoomvision - Easy to use Computer Vision library for Python},
   howpublished = {\url{https://github.com/Lynchez/zoomvision}},
-  year =         {2021}
+  year =         {2022}
 }
 ```
 
